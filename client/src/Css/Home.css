@@ -1,0 +1,36 @@
+.homeBacground{
+    background-color:yellowgreen;
+    height: 100vh;
+    text-align: center;
+    padding-top: 150px;
+}
+.homeHeader{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color:black;
+    padding: 20px;
+}
+.button{
+    border: 1px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    color: aliceblue;
+    background-color: black;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: transparent;
+    color: black;
+}
+.login{
+    background-color: yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    text-align: right;
+    display:block;
+    color: black;
+    padding: 50px 100px;
+}

@@ -1,0 +1,50 @@
+.background{
+    background-color:yellowgreen;
+    height: 100vh;
+    padding-top: 100px;
+}
+.header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.hr{
+    width: 300px;
+    margin: auto;
+}
+.div{
+    margin: 20px 0;
+}
+.regForm{
+    padding-top: 50px;
+    margin-left: 400px;
+}
+.label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.input{
+    margin-left: 50px;
+    padding: 5px 20px;
+}
+.inputP{
+    margin-left: 54px;
+}
+.inputPh{
+    margin-left: 80px;
+}
+
+input::placeholder{
+    font-size: 14px;
+}
+.Rbutton{
+    margin-left: 240px;
+    padding: 10px 20px;
+}
+.exit{
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 20px;
+    background-color: teal;
+}

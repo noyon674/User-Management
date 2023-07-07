@@ -1,0 +1,21 @@
+.hrlogin{
+    width: 180px;
+}
+.loginbutton{
+    margin-left: 256px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.buttonR{
+    margin-left: 100px;
+}
+.p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+    padding-left: 110px;
+}
+.exit{
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 20px;
+    background-color: teal;
+}

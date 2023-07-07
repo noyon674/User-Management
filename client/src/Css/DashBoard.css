@@ -1,0 +1,33 @@
+.dashBackground{
+    background-color: tomato;
+    height: 100vh;
+}
+.topHeader{
+    background-color: #333;
+    color: wheat;
+    font-family: monospace;
+    text-align: center;
+    padding: 20px;
+}
+.clear::after{
+    content: '';
+    clear: both;
+    display: block;
+}
+.buttom-left{
+    float: left;
+    background-color: #222;
+    width: 200px;
+    height:74vh;
+    padding-left: 50px;
+    padding-top: 97px;
+}
+
+.Link{
+    color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px 0;
+}
+.Link:hover{
+    text-decoration: none;
+}
